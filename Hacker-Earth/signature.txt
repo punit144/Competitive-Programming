@@ -1,0 +1,7 @@
+"""
+    Author: Punit Grewal
+    Year: 2019
+    Github: https://github.com/punit144/Competitive-Programming
+    Problem: HackerEarth <
+    Complexity:
+"""
